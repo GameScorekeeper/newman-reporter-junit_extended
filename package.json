@@ -1,0 +1,26 @@
+
+{
+  "name": "newman-reporter-junit-extended",
+  "version": "0.1.0",
+  "description": "An extended JUnit reporter for Newman. Small extension from Newman's JUnit own reporter. All code credited to Newman.",
+  "keywords": [
+    "postman",
+    "newman"
+  ],
+  "repository": {
+   "type": "git",
+   "url": "git://github.com/kaviemvevi/newman-reporter-junit-extended.git"
+ },
+  "main": "lib/index.js",
+  "dependencies": {
+    "lodash": "4.17.2",
+    "xmlbuilder": "9.0.1"
+  },
+  "devDependencies": {
+    "should": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "Apache-2.0"
+}
