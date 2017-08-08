@@ -1,6 +1,6 @@
 
 {
-  "name": "newman-reporter-junit-extended",
+  "name": "newman-reporter-junit_extended",
   "version": "0.1.0",
   "description": "An extended JUnit reporter for Newman. Small extension from Newman's JUnit own reporter. All code credited to Newman.",
   "keywords": [
