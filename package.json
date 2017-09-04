@@ -1,7 +1,7 @@
 
 {
   "name": "newman-reporter-junit_extended",
-  "version": "0.1.0",
+  "version": "0.1.10",
   "description": "An extended JUnit reporter for Newman. Small extension from Newman's JUnit own reporter. All code credited to Newman.",
   "keywords": [
     "postman",
